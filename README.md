@@ -39,7 +39,7 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), Ten
 
 The Exploration of Filters in color segmentation for detetcion of duodenal cysts undergoes various filter processing to give the overlay segement of duodenal affected region
 
-# Articles published
+# For references
 
 1. Srikanth, Vani. (2020). Ulcer detection in Wireless Capsule Endoscopy images using deep CNN. Journal of King Saud University - Computer and Information Sciences. 34. 10.1016/j.jksuci.2020.09.008.
 2. Mamun, Abdullah & Hossain, Md & Khallil, Md & Tahabilder, Anik & Das, Tushar & Islam, Rakibul. (2020). Convenient Way to Detect Ulcer in Wireless Capsule Endoscopy Through Fuzzy Logic Technique. 10.1109/TENSYMP50017.2020.9231004.
